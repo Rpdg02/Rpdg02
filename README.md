@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rpdg02
 - 👀 I’m interested in web deveopment
-- 🌱 I’m currently learning php
+- 🌱 I’m currently learning php,javascript, nodejs, sql, monggoDB
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me email @gotladerapaulo@gmail.com
 
